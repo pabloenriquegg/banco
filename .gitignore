@@ -1,0 +1,19 @@
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
